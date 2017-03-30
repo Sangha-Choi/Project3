@@ -1,0 +1,159 @@
+
+#main-header{
+	background-color: #dda7f9;
+	padding: 5% 0% 3% 0%;
+	position: relative;
+}
+
+
+#main-header #welcome-world{
+	text-align: center;
+	color: white;
+	font-size: 350%;
+	font-family: 'Spirax', cursive;
+}
+
+#main-navbar{
+	list-style-type: none;
+    overflow: hidden;
+    background-color: #ff54a5;
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+li.nav {
+	font-family: Arial, Helvetica, serif;
+	border-left: 1px solid #ffffff;
+	padding:0% 1% 0% 1%;
+	margin: 1% 0% 1% 0%;
+	font-size:120%;
+    display: inline-block;	
+}
+
+a:link{
+	color: pink;
+	text-decoration: none;
+}
+
+a:visited{
+	color: pink;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+section{
+	border: 1px solid black;
+	margin: 1% 1% 1% 1%;
+    background-color: #ffe8f3;
+    padding-top: 5%;
+    padding-right: 3%;
+    padding-bottom: 5%;
+    padding-left: 8%;
+}
+
+section #intro{
+	text-align: center;
+	font-size: 100%;
+}
+
+p.intro{
+	font-size: 100%;
+	margin: 5%;
+	white-space: pre-line;
+}
+
+h1 {
+	font-family: Arial, Helvetica, serif;
+	color: #000000;
+	font-size: 300%;
+	font-weight: bold;
+	margin: 1% 0% 1% 0%;
+}
+
+h3{
+	font-family: Arial, Helvetica, serif;
+	color: #000000;
+	font-size: 130%;
+	font-weight: bold;
+	margin: 0;
+}
+
+h4{
+	font-family: Arial, Helvetica, serif;
+	color: #000000;
+	font-size: 100%;
+	font-weight: bold;
+	margin: 8% 0% 3% 0%;
+}
+
+h5{
+	font-family: Arial, Helvetica, serif;
+	color: #000000;
+	font-size: 100%;
+	font-weight: normal;
+	margin: 2% 0% 1% 0%;
+}
+
+p.lylics{
+	font-family: Arial, Helvetica, serif;
+	text-align: left;
+	color: #828282;
+	font-size: 110%;
+	margin: 5% 0% 5% 0%;
+	white-space: pre-line;
+}
+
+span.p_first{
+  font-size: 250%;
+  color: #ff54a5;
+}
+
+#resume #address #company #school{
+	font-size: 100%;
+	margin: 1% 0% 1% 0%;
+}
+
+#resume-section #major{
+	font-size: 90%;
+	margin: 1% 0% 1% 0%;
+}
+
+#work-history{
+	font-weight: bold;
+	margin: 1% 0% 1% 0%;
+}
+
+#musicvideo{
+	width: 728px; 
+	height: 409px;
+}
+
+footer{
+	display: block;
+	background-color: #a700ff;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 30%;
+	padding-left: 50%;
+	position: relative;
+	color: white;
+}
+
+footer #madeby{
+	text-align: center;
+	font-size: 130%;
+	margin: 2% 0% 5% 0%;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+	
+}
+
+footer #contact{
+	font-size: 80%;
+	margin: 2% 0% 1% 0%;
+}
