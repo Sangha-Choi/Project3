@@ -154,6 +154,7 @@ footer #madeby{
 }
 
 footer #contact{
+	text-align: center;
 	font-size: 80%;
 	margin: 2% 0% 1% 0%;
 }
