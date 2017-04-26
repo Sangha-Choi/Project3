@@ -15,8 +15,8 @@
 
 #main-navbar{
 	list-style-type: none;
-    overflow: hidden;
-    background-color: #ff54a5;
+	overflow: hidden;
+	background-color: #ff54a5;
 	padding: 0;
 	margin: 0;
 	position: relative;
@@ -28,7 +28,7 @@ li.nav {
 	padding:0% 1% 0% 1%;
 	margin: 1% 0% 1% 0%;
 	font-size:120%;
-    display: inline-block;	
+	display: inline-block;	
 }
 li{
 	list-style-type: square;
@@ -52,11 +52,11 @@ a:hover{
 section{
 	border: 1px solid black;
 	margin: 1% 1% 1% 1%;
-    background-color: #ffe8f3;
-    padding-top: 5%;
-    padding-right: 3%;
-    padding-bottom: 5%;
-    padding-left: 8%;
+	background-color: #ffe8f3;
+	padding-top: 5%;
+	padding-right: 3%;
+	padding-bottom: 5%;
+	padding-left: 8%;
 }
 
 section #intro{
@@ -112,8 +112,8 @@ p.lylics{
 }
 
 span.p_first{
-  font-size: 250%;
-  color: #ff54a5;
+	font-size: 250%;
+	color: #ff54a5;
 }
 
 #resume #address #company #school{
@@ -168,10 +168,10 @@ footer #contact{
 	border-radius: 5px;
 	border-width: 5px;
 	border-color: #f72e8c;
-  width: 50%;
-  margin: auto;
-  width: 50%;
-  margin-top: 5%;
+	width: 50%;
+	margin: auto;
+	width: 50%;
+	margin-top: 5%;
   	/* speed of slide */
 	transition: 2s ease;
 }
