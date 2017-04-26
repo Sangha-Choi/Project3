@@ -30,6 +30,9 @@ li.nav {
 	font-size:120%;
     display: inline-block;	
 }
+li{
+	list-style-type: square;
+}
 
 a:link{
 	color: pink;
@@ -139,7 +142,7 @@ footer{
 	padding-top: 3%;
 	padding-bottom: 3%;
 	padding-right: 30%;
-	padding-left: 50%;
+	padding-left: 40%;
 	position: relative;
 	color: white;
 }
@@ -157,4 +160,18 @@ footer #contact{
 	text-align: center;
 	font-size: 80%;
 	margin: 2% 0% 1% 0%;
+}
+
+
+#slidercontainer {
+	border: solid;
+	border-radius: 5px;
+	border-width: 5px;
+	border-color: #f72e8c;
+  width: 50%;
+  margin: auto;
+  width: 50%;
+  margin-top: 5%;
+  	/* speed of slide */
+	transition: 2s ease;
 }
